@@ -1,8 +1,8 @@
-# Chris and Collin's Calculator
+# Saoud and Collin's Calculator
 
 #### This is a project to help us understand Business Logic better
 
-#### By Chris LaValley and Collin Chapman
+#### By Saoud Rana and Collin Chapman
 
 ## Technologies Used
 
@@ -31,5 +31,4 @@ MIT
 
 ## Contact Information
 
-cchap14@gmail.com
-lavalley.chris@gmail.com
+saoud@saoud.us
